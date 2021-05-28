@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/IgorYevtushenkoUA.github.io/yalantis_test_app/static/js/main.dae6d14e.chunk.js",
+    "main.js.map": "/IgorYevtushenkoUA.github.io/yalantis_test_app/static/js/main.dae6d14e.chunk.js.map",
+    "runtime-main.js": "/IgorYevtushenkoUA.github.io/yalantis_test_app/static/js/runtime-main.8af88bf0.js",
+    "runtime-main.js.map": "/IgorYevtushenkoUA.github.io/yalantis_test_app/static/js/runtime-main.8af88bf0.js.map",
+    "static/js/2.1ccfbf4a.chunk.js": "/IgorYevtushenkoUA.github.io/yalantis_test_app/static/js/2.1ccfbf4a.chunk.js",
+    "static/js/2.1ccfbf4a.chunk.js.map": "/IgorYevtushenkoUA.github.io/yalantis_test_app/static/js/2.1ccfbf4a.chunk.js.map",
+    "static/js/3.1273528b.chunk.js": "/IgorYevtushenkoUA.github.io/yalantis_test_app/static/js/3.1273528b.chunk.js",
+    "static/js/3.1273528b.chunk.js.map": "/IgorYevtushenkoUA.github.io/yalantis_test_app/static/js/3.1273528b.chunk.js.map",
+    "index.html": "/IgorYevtushenkoUA.github.io/yalantis_test_app/index.html",
+    "static/js/2.1ccfbf4a.chunk.js.LICENSE.txt": "/IgorYevtushenkoUA.github.io/yalantis_test_app/static/js/2.1ccfbf4a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8af88bf0.js",
+    "static/js/2.1ccfbf4a.chunk.js",
+    "static/js/main.dae6d14e.chunk.js"
+  ]
+}
