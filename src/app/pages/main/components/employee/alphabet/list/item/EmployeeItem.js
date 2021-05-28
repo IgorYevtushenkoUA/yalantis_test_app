@@ -1,8 +1,6 @@
 import React from "react";
 
 const EmployeeItem = (props) => {
-  debugger;
-
   const addEmployee = () => {
     props.addEmployee(props.employee);
   };

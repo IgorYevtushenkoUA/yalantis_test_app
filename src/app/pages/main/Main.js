@@ -109,7 +109,6 @@ const Main = (props) => {
     } else if (
       employeeMap.get(monthId).filter((i) => i.id == employee.id).length == 0
     ) {
-      debugger;
       let employeesList = employeeMap.get(monthId);
       employeesList.push(employee);
       employeesList.sort(compare);

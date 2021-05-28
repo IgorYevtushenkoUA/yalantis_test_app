@@ -1,11 +1,8 @@
 import React from "react";
 import EmptyEmployeesList from "./empty/EmptyEmployeesList";
-import EmployeeItem from "./iter/EmployeeItem";
+import EmployeeItem from "./item/EmployeeItem";
 
 const EmployeesList = (props) => {
-  console.log(props.employeesId.con);
-
-  debugger;
   if (!props.employees) {
     return <EmptyEmployeesList />;
   } else {

@@ -6,10 +6,10 @@ const EmployeeMonth = (props) => {
     <div style={{ paddingTop: "10px" }}>
       {props.monthName}
       <ul>
-        {props.employees.map((employeeItem, key) => (
+        {props.employees.map((employeeItem) => (
           <li style={{ marginLeft: "-20px" }}>
             <EmployeeItem
-              key={key}
+              key={employeeItem.id}
               employeeItem={employeeItem}
               monthName={props.monthName}
             />

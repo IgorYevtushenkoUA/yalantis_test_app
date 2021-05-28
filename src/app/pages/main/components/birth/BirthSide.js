@@ -1,5 +1,6 @@
 import React from "react";
-import EmployeeMonth from "./employeeMonth/EmployeeMonth";
+import EmployeeMonth from "./content/filled/employeeMonth/EmployeeMonth";
+import BirthContent from "./content/BirthContent";
 
 const BirthSide = (props) => {
   return (
@@ -9,14 +10,10 @@ const BirthSide = (props) => {
       </div>
 
       <div style={{ marginLeft: "10%", borderTop: "1px solid black" }}>
-        {[...props.employeesBirth.keys()].map((monthId, key) => (
-          <EmployeeMonth
-            key={key}
-            monthId={monthId}
-            monthName={props.months.get(monthId)}
-            employees={props.employeesBirth.get(monthId)}
-          />
-        ))}
+        <BirthContent
+          months={props.months}
+          employeesBirth={props.employeesBirth}
+        />
       </div>
     </div>
   );
