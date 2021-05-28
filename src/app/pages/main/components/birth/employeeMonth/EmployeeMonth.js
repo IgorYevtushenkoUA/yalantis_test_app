@@ -3,11 +3,11 @@ import EmployeeItem from "./item/EmployeeItem";
 
 const EmployeeMonth = (props) => {
   return (
-    <div>
+    <div style={{ paddingTop: "10px" }}>
       {props.monthName}
       <ul>
         {props.employees.map((employeeItem, key) => (
-          <li>
+          <li style={{ marginLeft: "-20px" }}>
             <EmployeeItem
               key={key}
               employeeItem={employeeItem}
