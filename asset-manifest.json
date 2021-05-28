@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/yalantis_test_app/static/js/main.7623f7f3.chunk.js",
-    "main.js.map": "/yalantis_test_app/static/js/main.7623f7f3.chunk.js.map",
+    "main.js": "/yalantis_test_app/static/js/main.bd9be53b.chunk.js",
+    "main.js.map": "/yalantis_test_app/static/js/main.bd9be53b.chunk.js.map",
     "runtime-main.js": "/yalantis_test_app/static/js/runtime-main.421fc811.js",
     "runtime-main.js.map": "/yalantis_test_app/static/js/runtime-main.421fc811.js.map",
     "static/js/2.1ccfbf4a.chunk.js": "/yalantis_test_app/static/js/2.1ccfbf4a.chunk.js",
@@ -14,6 +14,6 @@
   "entrypoints": [
     "static/js/runtime-main.421fc811.js",
     "static/js/2.1ccfbf4a.chunk.js",
-    "static/js/main.7623f7f3.chunk.js"
+    "static/js/main.bd9be53b.chunk.js"
   ]
 }
